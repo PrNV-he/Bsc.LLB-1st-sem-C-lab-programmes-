@@ -13,3 +13,4 @@ max = (a>b)?a:b;
 printf("max=%d",max);
 
 }
+
